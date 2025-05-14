@@ -25,6 +25,6 @@ Follow the on-screen menu to:
 
 - Search for specific data
 
-![Capture Image](https://github.com/VedantGawande773/Python-MySQL-CRUD-Application/blob/12a6ea73c366db702ec859f91727008776ce0618/Capture.JPG?raw=true)
+
 
 
